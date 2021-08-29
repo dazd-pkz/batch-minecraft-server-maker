@@ -3,8 +3,9 @@ A Minecraft Server Minecraft Writen in Batch
 
 Features : 
 
-Automatic Properties Configuration
 
-Automatic "Run Server" File Configuration
+📜 Automatic Properties Configuration
 
-Ngrok Support <3
+🤖 Automatic "Run Server" File Configuration
+
+📡 Ngrok Support <3
